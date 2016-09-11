@@ -1,0 +1,2 @@
+java  -cp map_reduce.jar:. job_tracker 1
+javac  -cp map_reduce.jar:. *.java -d ../bin
